@@ -30,6 +30,7 @@ Built a complete end-to-end energy monitoring dashboard for campus facilities us
 **Submitted by: Kenisha Randhawa**
 
 **Course: BTech CSE-(AI and ML)**
+ **Section: B**
 
 **Roll no.- 2501730091** 
 
